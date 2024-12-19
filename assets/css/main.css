@@ -1718,6 +1718,12 @@ section,
   font-size: 16px;
 }
 
+.contact .get-in-touch h3 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 10px 0;
+}
+
 .contact .php-email-form {
   background-color: var(--surface-color);
   height: 100%;
